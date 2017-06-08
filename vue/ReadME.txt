@@ -1,5 +1,5 @@
 learning Vue 
 some local HTML files
 
-µØÖ·£º
+åœ°å€
 http://cn.vuejs.org/v2/guide/ 
